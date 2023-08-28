@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Lab09Ex5",
+            "request": "launch",
+            "mainClass": "Lab09.Lab09Ex5",
+            "projectName": "ITP3914-Labs_ef4f84e7"
+        },
+        {
+            "type": "java",
+            "name": "Ex5",
+            "request": "launch",
+            "mainClass": "Lab09.Ex5",
+            "projectName": "ITP3914-Labs_ef4f84e7"
+        },
+        {
+            "type": "java",
+            "name": "Ex5a",
+            "request": "launch",
+            "mainClass": "Ex5a",
+            "projectName": "ITP3914-Labs_ef4f84e7"
+        },
+        {
+            "type": "java",
+            "name": "Ex6a",
+            "request": "launch",
+            "mainClass": "Ex6a",
+            "projectName": "ITP3914-Labs_ef4f84e7"
+        },
+        {
+            "type": "java",
+            "name": "Ex2",
+            "request": "launch",
+            "mainClass": "Ex2",
+            "projectName": "ITP3914-Labs_ef4f84e7"
+        },
+        {
+            "type": "java",
+            "name": "Ex3",
+            "request": "launch",
+            "mainClass": "Lab10.Ex3",
+            "projectName": "ITP3914-Labs_ef4f84e7"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoopExample",
+            "request": "launch",
+            "mainClass": "WhileLoopExample",
+            "projectName": "ITP3914-Labs_ef4f84e7"
+        },
+        {
+            "type": "java",
             "name": "HelloWorld",
             "request": "launch",
             "mainClass": "HelloWorld",
