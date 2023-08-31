@@ -1,4 +1,4 @@
-# IT114105 ITP4507 Labs
+# IT114105 ITP3914 Labs
 
 ### Submit your Labs
 1. On the right hand side of Codespaces, click the Git Branch button and then choose **Commit and Push"
